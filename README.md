@@ -1,7 +1,14 @@
-
 # Hi 👋, I'm Aman Kumar Singh
 
-I'm a Computer Science student passionate about AI, Augmented Reality, and Full-Stack Web Development. I enjoy building innovative applications that solve real-world problems and continuously exploring new technologies to improve my skills.
+I'm a Computer Science student passionate about AI, Augmented Reality, and Full-Stack Web Development.
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Student from India
+- 🤖 Passionate about AI, Augmented Reality, and Full-Stack Development
+- 🥽 Building AR applications using Unity & AR Foundation
+- 🌐 Exploring React, Python, and modern web technologies
+- 🚀 Always learning, building, and improving
 
 # 💻 Tech Stack:
 
