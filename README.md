@@ -10,6 +10,13 @@ I'm a Computer Science student passionate about AI, Augmented Reality, and Full-
 - 🌐 Exploring React, Python, and modern web technologies
 - 🚀 Always learning, building, and improving
 
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmanSingh353/AmanSingh353/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+
 # 💻 Tech Stack:
 
 ### Languages
